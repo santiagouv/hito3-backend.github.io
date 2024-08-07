@@ -1,0 +1,249 @@
+[
+    {
+        "id": "juego-01",
+        "titulo": "Mario Bros",
+        "imagen": "./img/videojuegos/01.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "juego-02",
+        "titulo": "Duck Hunt",
+        "imagen": "./img/videojuegos/02.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "juego-03",
+        "titulo": "Ice Climber",
+        "imagen": "./img/videojuegos/03.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "juego-04",
+        "titulo": "Donkey Kong",
+        "imagen": "./img/videojuegos/04.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "juego-05",
+        "titulo": "The Legend of Zelda",
+        "imagen": "./img/videojuegos/05.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "juego-06",
+        "titulo": "Super Mario World",
+        "imagen": "./img/videojuegos/06.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "juego-07",
+        "titulo": "Super MarioKart",
+        "imagen": "./img/videojuegos/07.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "juego-08",
+        "titulo": "Donkey Kong Country",
+        "imagen": "./img/videojuegos/08.jpg",
+        "categoria": {
+            "nombre": "VideoJuegos",
+            "id": "videojuegos"
+        },
+        "precio": 14000
+    },
+
+    
+
+    {
+        "id": "figura-01",
+        "titulo": "Goku SS1",
+        "imagen": "./img/figuras/01.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "figura-02",
+        "titulo": "Goku SS4",
+        "imagen": "./img/figuras/02.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "figura-03",
+        "titulo": "Picolo",
+        "imagen": "./img/figuras/03.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "figura-04",
+        "titulo": "PokeBall",
+        "imagen": "./img/figuras/04.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "figura-05",
+        "titulo": "Charmander",
+        "imagen": "./img/figuras/05.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "figura-06",
+        "titulo": "Blastois",
+        "imagen": "./img/figuras/06.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "figura-07",
+        "titulo": "Ash Pokemon",
+        "imagen": "./img/figuras/07.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "figura-08",
+        "titulo": "Metal Garurumon",
+        "imagen": "./img/figuras/08.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 7000
+    },
+    
+
+    
+
+    {
+        "id": "zonajunk-01",
+        "titulo": "FamiComp",
+        "imagen": "./img/zonajunk/01.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "zonajunk-02",
+        "titulo": "Nes",
+        "imagen": "./img/zonajunk/02.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "zonajunk-03",
+        "titulo": "Pack de Nes",
+        "imagen": "./img/zonajunk/03.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 23000
+    },
+    {
+        "id": "zonajunk-04",
+        "titulo": "Mega Drive",
+        "imagen": "./img/zonajunk/04.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 21000
+    },
+    {
+        "id": "zonajunk-05",
+        "titulo": "Snes",
+        "imagen": "./img/zonajunk/05.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 26000
+    },
+    {
+        "id": "zonajunk-06",
+        "titulo": "Pack de Snes",
+        "imagen": "./img/zonajunk/06.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "zonajunk-07",
+        "titulo": "GameBoy Adv.",
+        "imagen": "./img/zonajunk/07.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 17000
+    },
+    {
+        "id": "zonajunk-08",
+        "titulo": "PlayStation",
+        "imagen": "./img/zonajunk/08.jpg",
+        "categoria": {
+            "nombre": "ZonaJunk",
+            "id": "zonajunk"
+        },
+        "precio": 35000
+    }  
+]
