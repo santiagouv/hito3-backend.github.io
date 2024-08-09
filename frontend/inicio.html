@@ -29,19 +29,19 @@
             <form action="#">
                 <div class="input-box">
                     <span class="icon"><i class="bi bi-envelope-fill"></i></span>
-                    <input type="email" required>
+                    <input type="email" id="email_login" name="email_login" required>
                     <label>Email</label>
                 </div>
                 <div class="input-box">
                     <span class="icon"><i class="bi bi-lock-fill"></i></span>
-                    <input type="password" required>
+                    <input type="password" id="password_login" name="password_login" required>
                     <label>Password</label>
                 </div>
                 <div class="remember-forgot">
                     <label><input type="checkbox"> Remember Me</label>
                     <a href="#">Forgot Password?</a>
                 </div>
-                <button type="submit" class="btn">login</button>
+                <button type="button" onclick="login()" class="btn">login</button>
                 <div class="login-register">
                     <p>Don't have an account? <a href="#" class="register-link">Register</a></p>
                 </div>
@@ -55,24 +55,24 @@
                     <span class="icon">
                         <i class="bi bi-person-fill"></i>
                     </span>
-                    <input type="text" required>
+                    <input type="text" id="username_register" name="username_register" required>
                     <label>Username</label>
                 </div>
                 <div class="input-box">
                     <span class="icon"><i class="bi bi-envelope-fill"></i></span>
-                    <input type="email" required>
+                    <input type="email" id="email_register" name="email_resgister" required>
                     <label>Email</label>
                 </div>
                 <div class="input-box">
                     <span class="icon"><i class="bi bi-lock-fill"></i></span>
-                    <input type="password" required>
+                    <input type="password" id="password_register" name="passsword_register" required>
                     <label>Password</label>
                 </div>
                 <div class="remember-forgot">
                     <label><input type="checkbox"> I agree to the terms & conditions</label>
                     
                 </div>
-                <button type="submit" class="btn">Register</button>
+                <button type="button" onclick="register()" class="btn">Register</button>
                 <div class="login-register">
                     <p>Already have an account? <a href="#" class="login-link">Login</a></p>
                 </div>
