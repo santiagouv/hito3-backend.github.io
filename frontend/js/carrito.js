@@ -134,11 +134,13 @@ function comprarCarrito() {
     var productosEnCarrito = localStorage.getItem("productos-en-carrito");
     var data = JSON.parse(productosEnCarrito);
     console.log(data);
-
-        var url = "http://74.242.171.91:3000/api/carrito";
+    
+            //var url = "https://demo.mesh.com.ar/php/post.php";
+	var url = "http://74.242.171.91:3000/api/carrito";
         let xhr = new XMLHttpRequest();
         xhr.open('POST', url, true);
         xhr.setRequestHeader('Content-type', 'application/json; charset=UTF-8');
+	xhr.setRequestHeader('Access-Control-Allow-Origin', '*');    
         xhr.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
 console.log(this.responseText);
